@@ -10,4 +10,4 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;扫描下方二维码:point_down::point_down:添加个人微信
 
-![logo](_media/wechatAvatar.jpg ':size=200x200')
+![logo](_media/wechatAvatar.jpg ':size=120x120')
